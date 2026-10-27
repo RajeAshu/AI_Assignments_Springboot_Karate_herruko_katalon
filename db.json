@@ -1,0 +1,18 @@
+{
+  "payment": [
+    {
+      "id": "1",
+      "paymentStatus": "PAID"
+
+    },
+    {
+      "id": "2",
+      "status": "PENDING"
+    },
+    {
+      "id": "3",
+      "status": "PAID"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

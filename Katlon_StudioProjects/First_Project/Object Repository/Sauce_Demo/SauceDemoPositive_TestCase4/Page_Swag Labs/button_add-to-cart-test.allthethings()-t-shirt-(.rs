@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add-to-cart-test.allthethings()-t-shirt-(</name>
+   <tag></tag>
+   <elementGuidId>41c4d0ac-33e5-4461-aef2-2fe1e0c57145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-test=&quot;add-to-cart-test\.allthethings\(\)-t-shirt-\(red\)&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-test = 'add-to-cart-test.allthethings()-t-shirt-(red)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;add-to-cart-test\.allthethings\(\)-t-shirt-\(red\)&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47775d14-0634-483e-9f09-8a48dae42347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn_primary btn_small btn_inventory </value>
+      <webElementGuid>2afb8c09-f944-4336-a016-76994382c849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>add-to-cart-test.allthethings()-t-shirt-(red)</value>
+      <webElementGuid>37b41d5f-71e1-4769-8ea0-1d6767080648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add-to-cart-test.allthethings()-t-shirt-(red)</value>
+      <webElementGuid>6a3a957e-68f8-4b13-9d8c-8d502733c4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>add-to-cart-test.allthethings()-t-shirt-(red)</value>
+      <webElementGuid>76b7239e-f8e8-4342-9b71-b5435487d94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>751c1e45-60c1-4a11-933a-7dacd374fcaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-be18ea2e7111c70c26dbc4ad179f8079</value>
+      <webElementGuid>14472bbe-db91-4a5a-9484-142dea2ba2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'add-to-cart-test.allthethings()-t-shirt-(red)']</value>
+      <webElementGuid>e8429dbb-cd6a-4bbe-ab54-e8b17b7612af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'add-to-cart-test.allthethings()-t-shirt-(red)']</value>
+      <webElementGuid>60a502c3-5c3a-4e42-b09e-a014d918ab6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'add-to-cart-test.allthethings()-t-shirt-(red)' and @name = 'add-to-cart-test.allthethings()-t-shirt-(red)' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>9e8d4efe-1cb6-41da-aad5-af6665750823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

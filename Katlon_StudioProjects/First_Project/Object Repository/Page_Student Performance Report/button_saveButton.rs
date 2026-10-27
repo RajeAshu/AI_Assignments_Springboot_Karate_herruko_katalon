@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_saveButton</name>
+   <tag></tag>
+   <elementGuidId>bd3014fe-3842-4978-9c94-48c5929076b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#saveButton</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'saveButton' and (text() = 'Save' or . = 'Save')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'saveButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5372392-f593-40e8-93d4-7ecde4e9a912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>saveButton</value>
+      <webElementGuid>9500871d-5c2c-4a2d-baa2-2ab52b01f7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>165d49e5-6e04-4636-b996-36967403824f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6781db9b23976f6db024933b624ab42b</value>
+      <webElementGuid>daf0069a-84f1-4f6b-b7ee-4700308517ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'saveButton']</value>
+      <webElementGuid>74a6c77f-a36b-40c6-b87f-adf01ee8f714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'saveButton']</value>
+      <webElementGuid>8a4d2ecf-38f5-41b9-9829-00b748265e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'saveButton' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>4b2fdf7e-5e21-4b44-a9cd-bc4fe9e6542d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

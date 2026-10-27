@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_TestCase</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>cdacccst</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>cdacccst</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>d8eab426-1be4-4354-a709-7ddb1ff0cfe8</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>d8eab426-1be4-4354-a709-7ddb1ff0cfe8</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f4016cc-abb4-45e8-8676-6a336d0591c9</testCaseGuid>
+</TestCaseEntity>

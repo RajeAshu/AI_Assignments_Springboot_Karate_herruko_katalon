@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_number_2</name>
+   <tag></tag>
+   <elementGuidId>21e48270-4dd6-4b9f-a453-aaab3ed76b36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(3) [type=&quot;number&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'number']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 3)]//*[@type = 'number']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Radhika&quot;i] >> internal:role=spinbutton</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>43e5d997-8995-421b-8f9d-77561a29b3bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>73cf82e1-e993-4679-9775-d700bc469d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7d75b375-98ad-451c-a489-78ca32ed96d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>18ab6dca-55e0-4ae7-81cc-cc49c00e55e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-18a853dfed7771056c30f48d81b49d91</value>
+      <webElementGuid>d9cbb470-93ed-4922-83f2-b65932e5da0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 3)]//*[@type = 'number']</value>
+      <webElementGuid>20b34ba3-d50f-4d98-b7cb-b5388009e965</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 3)]//*[@type = 'number']</value>
+      <webElementGuid>699a5350-398c-47c7-8d91-c145d909f8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number']</value>
+      <webElementGuid>11e504e4-6792-495b-bec1-f65ff0e6fcfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

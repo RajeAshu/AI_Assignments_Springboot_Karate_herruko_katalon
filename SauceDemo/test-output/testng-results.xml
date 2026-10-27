@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-21T14:36:48 IST" name="API Test Automation Suite" finished-at="2026-10-21T14:38:19 IST" duration-ms="90942">
+    <groups>
+    </groups>
+    <test started-at="2026-10-21T14:36:48 IST" name="Regression and Smoke Executions" finished-at="2026-10-21T14:37:10 IST" duration-ms="21843">
+      <class name="Login_SauceDemo_TestNG">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@18e36d14]" started-at="2026-10-21T14:36:48 IST" name="setUp" finished-at="2026-10-21T14:36:54 IST" duration-ms="6064" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPositiveLoginSauceDemo()[pri:1, instance:Login_SauceDemo_TestNG@18e36d14]" started-at="2026-10-21T14:36:54 IST" name="testPositiveLoginSauceDemo" finished-at="2026-10-21T14:37:00 IST" duration-ms="5735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveLoginSauceDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@18e36d14]" started-at="2026-10-21T14:37:00 IST" name="tearDown" finished-at="2026-10-21T14:37:01 IST" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@18e36d14]" started-at="2026-10-21T14:37:01 IST" name="setUp" finished-at="2026-10-21T14:37:06 IST" duration-ms="4918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddMultipleProductsToCart()[pri:2, instance:Login_SauceDemo_TestNG@18e36d14]" started-at="2026-10-21T14:37:06 IST" name="testAddMultipleProductsToCart" finished-at="2026-10-21T14:37:09 IST" duration-ms="2665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddMultipleProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@18e36d14]" started-at="2026-10-21T14:37:09 IST" name="tearDown" finished-at="2026-10-21T14:37:10 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Login_SauceDemo_TestNG -->
+    </test> <!-- Regression and Smoke Executions -->
+    <test started-at="2026-10-21T14:37:10 IST" name="Windows Chrome Test" finished-at="2026-10-21T14:37:31 IST" duration-ms="20824">
+      <class name="Login_SauceDemo_TestNG">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@5be46f9d]" started-at="2026-10-21T14:37:10 IST" name="setUp" finished-at="2026-10-21T14:37:15 IST" duration-ms="5447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[120]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPositiveLoginSauceDemo()[pri:1, instance:Login_SauceDemo_TestNG@5be46f9d]" started-at="2026-10-21T14:37:15 IST" name="testPositiveLoginSauceDemo" finished-at="2026-10-21T14:37:21 IST" duration-ms="5702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveLoginSauceDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@5be46f9d]" started-at="2026-10-21T14:37:21 IST" name="tearDown" finished-at="2026-10-21T14:37:22 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@5be46f9d]" started-at="2026-10-21T14:37:22 IST" name="setUp" finished-at="2026-10-21T14:37:27 IST" duration-ms="5179" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[120]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddMultipleProductsToCart()[pri:2, instance:Login_SauceDemo_TestNG@5be46f9d]" started-at="2026-10-21T14:37:27 IST" name="testAddMultipleProductsToCart" finished-at="2026-10-21T14:37:29 IST" duration-ms="2140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddMultipleProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@5be46f9d]" started-at="2026-10-21T14:37:29 IST" name="tearDown" finished-at="2026-10-21T14:37:31 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Login_SauceDemo_TestNG -->
+    </test> <!-- Windows Chrome Test -->
+    <test started-at="2026-10-21T14:37:31 IST" name="Mac Safari Test" finished-at="2026-10-21T14:37:59 IST" duration-ms="27912">
+      <class name="Login_SauceDemo_TestNG">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@7b205dbd]" started-at="2026-10-21T14:37:31 IST" name="setUp" finished-at="2026-10-21T14:37:36 IST" duration-ms="5492" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monterey]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15.6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPositiveLoginSauceDemo()[pri:1, instance:Login_SauceDemo_TestNG@7b205dbd]" started-at="2026-10-21T14:37:36 IST" name="testPositiveLoginSauceDemo" finished-at="2026-10-21T14:37:43 IST" duration-ms="6665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveLoginSauceDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@7b205dbd]" started-at="2026-10-21T14:37:43 IST" name="tearDown" finished-at="2026-10-21T14:37:44 IST" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@7b205dbd]" started-at="2026-10-21T14:37:44 IST" name="setUp" finished-at="2026-10-21T14:37:53 IST" duration-ms="8953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Monterey]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15.6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddMultipleProductsToCart()[pri:2, instance:Login_SauceDemo_TestNG@7b205dbd]" started-at="2026-10-21T14:37:53 IST" name="testAddMultipleProductsToCart" finished-at="2026-10-21T14:37:57 IST" duration-ms="4205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddMultipleProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@7b205dbd]" started-at="2026-10-21T14:37:57 IST" name="tearDown" finished-at="2026-10-21T14:37:59 IST" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Login_SauceDemo_TestNG -->
+    </test> <!-- Mac Safari Test -->
+    <test started-at="2026-10-21T14:37:59 IST" name="iPhoneTest" finished-at="2026-10-21T14:38:19 IST" duration-ms="20336">
+      <class name="Login_SauceDemo_TestNG">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@146dfe6]" started-at="2026-10-21T14:37:59 IST" name="setUp" finished-at="2026-10-21T14:38:04 IST" duration-ms="5008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPositiveLoginSauceDemo()[pri:1, instance:Login_SauceDemo_TestNG@146dfe6]" started-at="2026-10-21T14:38:04 IST" name="testPositiveLoginSauceDemo" finished-at="2026-10-21T14:38:09 IST" duration-ms="4907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveLoginSauceDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@146dfe6]" started-at="2026-10-21T14:38:09 IST" name="tearDown" finished-at="2026-10-21T14:38:10 IST" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Login_SauceDemo_TestNG@146dfe6]" started-at="2026-10-21T14:38:10 IST" name="setUp" finished-at="2026-10-21T14:38:15 IST" duration-ms="4850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddMultipleProductsToCart()[pri:2, instance:Login_SauceDemo_TestNG@146dfe6]" started-at="2026-10-21T14:38:15 IST" name="testAddMultipleProductsToCart" finished-at="2026-10-21T14:38:18 IST" duration-ms="3324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddMultipleProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Login_SauceDemo_TestNG@146dfe6]" started-at="2026-10-21T14:38:18 IST" name="tearDown" finished-at="2026-10-21T14:38:19 IST" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Login_SauceDemo_TestNG -->
+    </test> <!-- iPhoneTest -->
+  </suite> <!-- API Test Automation Suite -->
+</testng-results>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_generate-pdf-order</name>
+   <tag></tag>
+   <elementGuidId>f44757db-ad2e-4d9d-a37a-9d7c997f654d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-test=&quot;generate-pdf-order&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-test = 'generate-pdf-order']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;generate-pdf-order&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>262346f8-9000-4456-b552-25a78e7c8464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn_primary btn_small generate-pdf-button</value>
+      <webElementGuid>b2be7703-6b84-43dd-8364-f4acaca883fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>generate-pdf-order</value>
+      <webElementGuid>fcdac7ea-f206-4620-aa26-ccd93af4c728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>generate-pdf-order</value>
+      <webElementGuid>4466921f-725f-43cc-b279-1a020283de3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>generate-pdf-order</value>
+      <webElementGuid>5415223b-112b-4f85-a8de-26574b05c2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generate PDF order</value>
+      <webElementGuid>268e874c-4bf6-4457-8ff6-9cb604b3b208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a44ff4c78c107f21708e84cd7512bc06</value>
+      <webElementGuid>0cabda9d-6a35-4499-9128-133ee9be4859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'generate-pdf-order']</value>
+      <webElementGuid>24670bd0-5e58-4db1-a24d-52b0a11dba45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'generate-pdf-order']</value>
+      <webElementGuid>3534ef83-7e4a-4c0c-8cc2-fbd563374493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'generate-pdf-order' and @name = 'generate-pdf-order' and (text() = 'Generate PDF order' or . = 'Generate PDF order')]</value>
+      <webElementGuid>8ed61713-8a38-4566-a629-9f927940df3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [API Test Automation Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression and Smoke Executions(failed)">
+    <classes>
+      <class name="Login_SauceDemo_TestNG">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testPositiveLoginSauceDemo"/>
+        </methods>
+      </class> <!-- Login_SauceDemo_TestNG -->
+    </classes>
+  </test> <!-- Regression and Smoke Executions(failed) -->
+  <test thread-count="5" name="Mac Safari Test(failed)">
+    <parameter name="os" value="OS X"/>
+    <parameter name="osVersion" value="Monterey"/>
+    <parameter name="browserVersion" value="15.6"/>
+    <parameter name="browserName" value="safari"/>
+    <classes>
+      <class name="Login_SauceDemo_TestNG">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testPositiveLoginSauceDemo"/>
+        </methods>
+      </class> <!-- Login_SauceDemo_TestNG -->
+    </classes>
+  </test> <!-- Mac Safari Test(failed) -->
+</suite> <!-- Failed suite [API Test Automation Suite] -->
